@@ -1,1 +1,1 @@
-# Cat-Quest-Environment-Using-Reinforcement-Learning
+# Cat Quest Environment Using Reinforcement Learning
