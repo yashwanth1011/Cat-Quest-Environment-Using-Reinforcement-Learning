@@ -1,5 +1,5 @@
 
-# Cat Quest Environment using Reinforcement Learning
+# Autonomous Robot Navigation (Cat) using Reinforcement Learning
 
 ## Project Overview
 
